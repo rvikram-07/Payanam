@@ -15,7 +15,7 @@ packages = [
         "id": 2,
         "destination": "Ooty",
         "duration": "3 Days / 2 Nights",
-        "price": 6500,
+        "price": 16500,
         "rating": 4.5
     },
 
