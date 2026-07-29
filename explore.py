@@ -205,7 +205,7 @@ class ExplorePage:
 
         self.root.destroy()
 
-        from booking import BookingPage
+        from Booking import BookingPage
 
         BookingPage()
 

@@ -210,7 +210,7 @@ class BookingPage:
 
         self.root.destroy()
 
-        from mytrips import MyTripsPage
+        from Mytrips import MyTripsPage
 
         MyTripsPage()
 

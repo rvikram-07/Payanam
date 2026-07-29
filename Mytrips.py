@@ -45,7 +45,7 @@ class MyTripsPage:
 
         self.root.destroy()
 
-        from reviews import ReviewsPage
+        from Reviews import ReviewsPage
 
         ReviewsPage()
 

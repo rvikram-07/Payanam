@@ -156,7 +156,7 @@ class LoginPage:
 
                 if user["role"] == "admin":
 
-                    from admin import AdminDashboard
+                    from Admin import AdminDashboard
 
                     AdminDashboard()
 
