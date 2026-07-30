@@ -205,7 +205,7 @@ class BookingPage:
 
         messagebox.showinfo(
             "Success",
-            "Booking Confirmed For Your Package"
+            "Booking Confirmed Succesfully"
         )
 
         self.root.destroy()
