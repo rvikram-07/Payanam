@@ -30,7 +30,7 @@ packages = [
     {
         "id": 4,
         "destination": "Kerala",
-        "duration": "4 Days / 3 Nights",
+        "duration": "6 Days / 5 Nights",
         "price": 9000,
         "rating": 4.6
     }
