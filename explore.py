@@ -69,7 +69,7 @@ class ExplorePage:
 
         title = tk.Label(
             self.root,
-            text="Explore Tourist Packages",
+            text="Explore Packages",
             font=("Arial",20,"bold"),
             bg="#007acc",
             fg="white",
