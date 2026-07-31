@@ -6,7 +6,7 @@ reviews = [
     {
         "user": "Rahul",
         "rating": 5,
-        "comment": "Amazing experience"
+        "comment": "Wonderful experience"
     }
 
 ]
@@ -175,7 +175,7 @@ class ReviewsPage:
 
             messagebox.showerror(
                 "Error",
-                "Rating must be between 1 and 5"
+                "Rating must be between 1 to 10"
             )
 
             return
