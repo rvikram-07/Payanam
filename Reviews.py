@@ -175,7 +175,7 @@ class ReviewsPage:
 
             messagebox.showerror(
                 "Error",
-                "Rating must be between 1 to 10"
+                "Rating must be between 1 and 5"
             )
 
             return
