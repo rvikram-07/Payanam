@@ -6,7 +6,7 @@ reviews = [
     {
         "user": "Rahul",
         "rating": 5,
-        "comment": "Amazing experience"
+        "comment": "Wonderful experience"
     }
 
 ]
